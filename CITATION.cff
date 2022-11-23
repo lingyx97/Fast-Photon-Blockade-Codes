@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "This code is used for the paper doi.org/???"
+authors:
+- family-names: "Ling"
+  given-names: "Yuxun"
+title: "Fast-Photon-Blockade-Codes"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-11-23
+url: "https://github.com/lingyx97/Fast-Photon-Blockade-Codes"
