@@ -260,7 +260,7 @@ elif PLOT==9:
     ys=["num","num_gtilde","Taylor1","Taylor3"]
     clrs=genColors(4)
     lnstls=["o","x","dashed","dotted"]
-    lbls=[r"numerical $g^{(2)}$", r"numerical $\tilde{g}^{(2)}$",r"theoretical $\tilde{g}^{(2)}$ ($(g_0\omega_m)^4\ll1$)",r"theoretical $\tilde{g}^{(2)}$ ($(g_0\omega_m)^{12}\ll1$)"]
+    lbls=[r"numerical $g^{(2)}$", r"numerical $\tilde{g}^{(2)}$",r"theoretical $\tilde{g}^{(2)}$ ($(g_0\omega_m)^4\ll1$)",r"theoretical $\tilde{g}^{(2)}$ ($(g_0\omega_m)^{8}\ll1$)"]
 
     fig, ax = plt.subplots(figsize=(8.0, 6.0))
 
